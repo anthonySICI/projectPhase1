@@ -1,0 +1,24 @@
+#wrapper { background-color: #A4A4A4; color: #000066; width: 80%;
+margin: auto; min-width: 890px; max-width: 850px;}
+
+body {font-family: Verdana, Arial, sans-serif; background-color: #A4A4A4;}
+
+header { background-color: #FFFFFF; color: #FE2E2E; 
+font-size: 130%; padding: 20px 10px 10px 10px; padding-left: 30px}
+
+main { display: block;padding: 3em; background-color: #F2F2F2; color: #000000;}
+
+#floatright { margin: 10px; float: right;}
+
+footer {background-color: #FE2E2E; font-size:70%; text-align: center;
+clear: right; padding-top: 10px; padding-bottom:10px;}
+
+h1 {font-family: arial, sans-serif; font-size:larger;}
+
+h2 {font-family: arial, sans-serif;}
+
+h2 a:link {color: #DF0101;}
+
+h2 a:hover {color: #FF0000;}
+
+h2 a:visited {color: #DF0101}
